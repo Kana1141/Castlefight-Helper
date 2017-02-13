@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication1
+﻿namespace CastlefightSyncro
 {
     public class Building
     {

@@ -8,7 +8,7 @@ using System.Windows.Forms;
 using WindowsInput;
 using NCalc;
 
-namespace WindowsFormsApplication1
+namespace CastlefightSyncro
 {
 
     public partial class Form1 : Form

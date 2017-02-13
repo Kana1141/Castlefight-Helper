@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Windows.Forms;
 
-namespace WindowsFormsApplication1
+namespace CastlefightSyncro
 {
     partial class Form1
     {
